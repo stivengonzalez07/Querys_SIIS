@@ -1,0 +1,4 @@
+update cuentas
+set  tipo_afiliado_id='0' , rango='UNICO'
+where 
+numerodecuenta='363184' and plan_id='535';

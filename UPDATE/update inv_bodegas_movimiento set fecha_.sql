@@ -1,0 +1,24 @@
+
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25733';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25734';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25735';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25736';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25738';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25739';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25740';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25741';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25742';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25743';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25744';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25745';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25746';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25747';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25748';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25749';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25750';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25751';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25752';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25753';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25754';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25755';
+update inv_bodegas_movimiento set fecha_registro='2021-12-31' where prefijo='IFR' and numero='25756';

@@ -1,0 +1,12 @@
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130080;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130721;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130181;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130205;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130135;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130522;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130791;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130326;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130346;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130359;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130276;
+update glosas set usuario_id_bloqueo =NULL  where glosa_id=130291;
