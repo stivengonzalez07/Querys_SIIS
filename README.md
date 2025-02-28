@@ -1,2 +1,2 @@
-# Analisis_de_datos
-repositorio para el curso de analisis de datos 
+# SQL  
+repositorio para querys para aplicativo clinico HIS SIIS
